@@ -27,9 +27,9 @@
 		"pages/**/*",
 		"components/**/*",
 		"constants/**/*",
-		"layouts/src/Layout.tsx",
+		"layouts/**/*",
 		"apps/src/app/App.tsx",
 		"apps/src/main/main.tsx",
-		"libs/types/vite-env.d.ts"
+		"libs/**/*"
 	]
 }
