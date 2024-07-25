@@ -1,7 +1,8 @@
 import React from 'react'
-import HeaderLogo from '../../../../public/images/header-logo.png'
-import { Link } from '../../src/Link/Link'
+import HeaderLogo from '../../../public/images/header-logo.png'
+
 import classes from './style.module.css'
+import { Link } from '../Link/Link'
 
 export const Header = () => {
 	return (
